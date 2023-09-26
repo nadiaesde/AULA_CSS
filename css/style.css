@@ -1,0 +1,15 @@
+h1{
+ color: blue; 
+ }
+ div{
+    background-color: lightsalmon;
+ }
+ body{
+    color: black;
+ }
+ head{
+    background-color: blueviolet;
+ }
+ html{
+    -webkit-background-origin: content-box;
+ }
